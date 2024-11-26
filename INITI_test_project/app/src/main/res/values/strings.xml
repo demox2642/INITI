@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">INITI_test_project</string>
+    <string name="search_placeholder">Введите ip или название организации</string>
+    <string name="search_clean_history">Отчистить историю</string>
+    <string name="flag_icon">flag icon</string>
+    <string name="search_org_title">Найдены следующие организации:</string>
+    <string name="search_org_inet">Найдены следующие данные сети:</string>
+    <string name="org_inet_list">Сети организации: </string>
+    <string name="org_name">название организации:</string>
+    <string name="org_id">идентификатор:</string>
+    <string name="inet_num">диапазон адресов:</string>
+    <string name="inet_name">имя сети:</string>
+    <string name="org_address">адрес: </string>
+    <string name="inet_org_id">ид организации:</string>
+    <string name="inet_list_title">Перечень сетей организации</string>
+</resources>
